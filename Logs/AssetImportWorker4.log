@@ -1,0 +1,33 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'es' Physical Memory: 7832 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/BRYAN/Documents/CARRERA/PROYECT/juegos-Videojuego/Terreno 1
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+49734
+Successfully changed project path to: C:/Users/BRYAN/Documents/CARRERA/PROYECT/juegos-Videojuego/Terreno 1
+C:/Users/BRYAN/Documents/CARRERA/PROYECT/juegos-Videojuego/Terreno 1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 3674.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.32f1 (12f8b0834f07)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/BRYAN/Documents/CARRERA/PROYECT/juegos-Videojuego/Terreno 1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M360 (ID=0x6900)
+    Vendor:   
+    VRAM:     2035 MB
+    Driver:   15.201.1001.1002
